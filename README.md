@@ -6,7 +6,7 @@ Uma aplicação web simples e objetiva para organizar suas tarefas do dia a dia,
 
 ![Preview da aplicação](preview.png)
 
-> 🔗 **Acesse o projeto online:** [mor3sco.github.io/lista-tarefas](https://mor3sco.github.io/lista-de-tarefas/)
+> 🔗 **Acesse o projeto online:** [mor3sco.github.io/lista-de-tarefas](https://mor3sco.github.io/lista-de-tarefas/)
 
 ---
 
